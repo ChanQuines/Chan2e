@@ -1,4 +1,4 @@
-package Channy;
+package channy;
 
 import java.util.Scanner;
 
