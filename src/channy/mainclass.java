@@ -88,11 +88,11 @@ public class mainclass {
                                 
                         }
                         break;
-                    case 2:
-                        // This case is empty and can be removed or filled with shopping logic
+                   case 2:
+                     
                         break;
-                    case 3:
-                        // This case is empty and can be removed or filled with bill payment logic
+                  case 3:
+                       
                         break;
                         
                      default:
